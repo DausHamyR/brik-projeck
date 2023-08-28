@@ -14,7 +14,14 @@ Selanjutnya anda bisa masuk ke vscode dengan folder cloning tersebut dan install
 ```
 npm install
 ```
-### jika anda menggunakan yarn
+### atau jika anda menggunakan yarn
 ``` 
 yarn install
+```
+
+## Step 3: Running Program
+Setelah anda menginstall semua dependencies yang di butuhkan, selanjutnya anda bisa Running Program 
+### untuk menjalankan Running Program
+```
+npm run dev
 ```
