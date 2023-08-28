@@ -10,11 +10,11 @@ Anda bisa meng cloning repository untuk menjalankan program
 ## Step 2: Masuk ke vscode + install dependencies
 Selanjutnya anda bisa masuk ke vscode dengan folder cloning tersebut dan install dependencies yang di butuhkan
 
-``` Menggunakan Npm
-#using npm
+### jika anda menggunakan npm
+```
 npm install
 ```
-``` Menggunakan Yarn
-#using Yarn
+### jika anda menggunakan yarn
+``` 
 yarn install
 ```
