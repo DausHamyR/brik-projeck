@@ -29,6 +29,8 @@ npm run dev
 ## Step 4: Login/Register
 #### Selanjutnya anda bisa masuk ke http://localhost:5173/login atau http://localhost:5173/register
 anda bisa langsung login menggunakan akun Admin
+
 Email = admin@mail.com
+
 password = 1234
 
