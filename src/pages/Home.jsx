@@ -15,7 +15,7 @@ const Home = ()=> {
 
     const btnLogout = () => {
         dispatch(logout())
-        navigate('/forgot-password')
+        navigate('/login')
     }
 
     React.useEffect(()=> {
