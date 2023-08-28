@@ -1,5 +1,5 @@
-# Brik Project
-## Getting Started
+## Brik Project
+# Getting Started
 ## Step 1: Cloning repository
 Anda bisa meng cloning repository untuk menjalankan program
 
@@ -33,4 +33,12 @@ anda bisa langsung login menggunakan akun Admin
 Email = admin@mail.com
 
 password = 1234
+
+## Step 5: Testing
+setelah login anda bisa Testing
+
+- Mencari product
+- Mengarahkan ke detail Product
+- Melakukan Paginition
+- Menambahkan Product
 
